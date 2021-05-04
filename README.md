@@ -1,4 +1,4 @@
-### Hey thanks for stopping by, in this humble github 💻
+### Hey, thanks for being on this github 💻
 Discord: -xd-#0639 <br>
 ![meme](https://komarev.com/ghpvc/?username=x-name15&style=flat-square&color=green) <br>
 [![stats](https://github-readme-stats.vercel.app/api?username=x-name15&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) <br>
