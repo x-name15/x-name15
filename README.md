@@ -31,7 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=x-name15&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   </a>
   <br>
-  <a href="https://www.youtube.com/watch?v=GZmoHrq0mEY&ab_channel=Rozebud">
+  <a href="https://www.youtube.com/watch?v=OnGQeVTt4KI&themeRefresh=1">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-name15&layout=compact&theme=highcontrast&show_icons=true" alt="Most Used Languages" />
   </a>
 </p>
