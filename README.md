@@ -31,13 +31,13 @@
 ---
 
 ### 🚀 Stats
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=x-name15&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <a href="https://open.spotify.com/intl-es/track/63dLm0BUpepXeFIfZ0OKEL?si=56831552850e4b00">
+    <img src="https://github-stats-extended.vercel.app/api?username=x-name15&show_icons=true&include_all_commits=true&theme=tokyonight" width="48%" />
   </a>
-  <br>
   <a href="https://www.youtube.com/watch?v=OnGQeVTt4KI&themeRefresh=1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-name15&layout=compact&theme=highcontrast&show_icons=true" alt="Most Used Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=x-name15&layout=donut&langs_count=5&disable_animations=true&theme=dark" width="40%" />
   </a>
 </p>
 
