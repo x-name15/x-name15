@@ -29,7 +29,6 @@
 </p>
 
 ---
-
 ### 🚀 Stats
 
 <p align="center">
@@ -41,8 +40,13 @@
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/x-name15/moodle-integration-hub">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=x-name15&repo=moodle-integration-hub&show_owner=true&description_lines_count=3&theme=dark" width="70%" />
+  </a>
+</p>
 
+---
 ### 💬 Reach Me
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-elflez-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
