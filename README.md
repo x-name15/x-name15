@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/-Moodle-F48225?logo=moodle&logoColor=white&style=for-the-badge" alt="Moodle" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="WordPress" />
 </p>
 
 ---
