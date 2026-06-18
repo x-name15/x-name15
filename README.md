@@ -32,22 +32,34 @@
 </p>
 
 ---
-### 🚀 Stats
+### 🚀 Stats and My Favorites Repos
 
-<p align="center">
-  <a href="https://open.spotify.com/intl-es/track/63dLm0BUpepXeFIfZ0OKEL?si=56831552850e4b00">
-    <img src="https://github-stats-extended.vercel.app/api?username=x-name15&show_icons=true&include_all_commits=true&theme=tokyonight" width="48%" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=OnGQeVTt4KI&themeRefresh=1">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=x-name15&layout=donut&langs_count=5&disable_animations=true&theme=dark" width="40%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/x-name15/moodle-integration-hub">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=x-name15&repo=moodle-integration-hub&show_owner=true&description_lines_count=3&theme=dark" width="70%" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/x-name15/tinymq">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=x-name15&repo=tinymq&show_owner=true&description_lines_count=3&theme=tokyonight" width="400" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/x-name15/moodle-integration-hub">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=x-name15&repo=moodle-integration-hub&show_owner=true&description_lines_count=3&theme=dark" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/intl-es/track/63dLm0BUpepXeFIfZ0OKEL">
+        <img src="https://github-stats-extended.vercel.app/api?username=x-name15&show_icons=true&include_all_commits=true&theme=tokyonight" width="400" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=OnGQeVTt4KI">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=x-name15&layout=donut&langs_count=5&disable_animations=true&theme=dark" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 💬 Reach Me
