@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-🇵🇪 | 🇪🇸  
+- 🇵🇪 | 🇪🇸  
 - 👾 | Aspiring collector of videogames in general
 - 🎲 | Programmer and Gamer
 - 🌙 | A man without love  
