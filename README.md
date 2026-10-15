@@ -7,9 +7,15 @@
 
 ### 👨‍💻 About Me
 - 🇵🇪 | 🇪🇸  
+
+- 🌐 | [mrjacket.dev](https://mrjacket.dev/)
+
 - 👾 | Aspiring collector of videogames in general
-- 🎲 | Programmer and Gamer
+
+- 🎲 | Student and Gamer
+
 - 🌙 | A man without love  
+
 
 ---
 
@@ -63,5 +69,8 @@
 ---
 ### 💬 Reach Me
 <p align="center">
+  <a href="https://mrjacket.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-mrjacket.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <img src="https://img.shields.io/badge/Discord-elflez-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
 </p>
